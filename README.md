@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Aziza752
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Азиза
+# возрост: 16
+# тел: +7 747 678 6940
+# gmail: aziza123@gmail.com
+# Хобби и интересы
+спорт, программирование, музика.
+# Образование
+Бакалавр, Информатика, Университет XYZ, 2021–2024
+# Навыки
+HTML/CSS
+JavaScript
+Git
 
-<!---
-Aziza752/Aziza752 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#
+#
+#
+#
